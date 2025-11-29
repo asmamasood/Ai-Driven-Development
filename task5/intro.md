@@ -1,0 +1,2 @@
+voice intro..
+"Assalamu Alaikum, my name is Asma Masood. I am currently participating in the AI-Driven Development 30-Day Challenge. I’m excited to learn advanced AI tools, automation, and agent-based development. My goal is to become a strong web developer and build real-world AI-powered applications. I’m enjoying the challenge so far and looking forward to learning even more. Thank you!"
